@@ -8,7 +8,7 @@ In this respository is the dataset from the AI Village red teaming competition, 
 import pandas as pd 
 import numpy as np
 
-data = pd.read_json("/ < "insert your file path here" > /anonymised_AIV.json")
+data = pd.read_json("/ <insert your file path here> /anonymised_AIV.json")
 
 ```
 
