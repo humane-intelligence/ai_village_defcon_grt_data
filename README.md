@@ -1,4 +1,5 @@
 # AI Village Defcon Dataset
+
 In this respository is the dataset from the AI Village red teaming competition, held at Defcon34. In the .zip containing the data is a json file. 
 
 **To read the .json file into a python notebook, please use this code snippet:**
@@ -11,6 +12,8 @@ import numpy as np
 data = pd.read_json("/ <insert your file path here> /anonymised_AIV.json")
 
 ```
+
+This dataset is also available on Hugging Face at: [`humane-intelligence/defcon34-ai-village-redteam`](https://huggingface.co/datasets/humane-intelligence/defcon34-ai-village-redteam).
 
 ## **Data Description:**
 
