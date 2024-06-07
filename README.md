@@ -1,6 +1,6 @@
 # AI Village Defcon Dataset
 
-In this respository is the dataset from the AI Village red teaming competition, held at Defcon34. In the .zip containing the data is a json file. 
+In this respository is the dataset from the AI Village red teaming competition, held at [DEFCON 31](https://aivillage.org/defcon31/). In the .zip containing the data is a json file. 
 
 **To read the .json file into a python notebook, please use this code snippet:**
 
